@@ -64,6 +64,20 @@
       "title": "Building REST APIs with FastAPI",
       "description": "Build and test a REST API with FastAPI, CRUD endpoints, and Pydantic validation.",
       "path": "assignments/fastapi-rest-api"
+    },
+    {
+      "id": "fastapi-sqlite",
+      "title": "FastAPI and SQLite",
+      "description": "Build a persistent REST API with FastAPI and SQLite.",
+      "path": "assignments/fastapi-sqlite",
+      "dueDate": "2026-11-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
